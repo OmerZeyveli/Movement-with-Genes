@@ -1,2 +1,3 @@
-You can try webGL build from simmer.io/@OmerZeyveli/movement-with-genes
+#https://simmer.io/@OmerZeyveli/movement-with-genes
 or you can download windows build from releases.
+Made from a udemy tutorial of ml education.
